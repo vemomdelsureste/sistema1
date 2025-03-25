@@ -1,0 +1,29 @@
+nuevoGenerador		nombre
+nuevoNoManifiesto 	manifiesto
+nuevoDomicilioG		domicilio_g
+nuevoCP			cp
+nuevoMunicipio		municipio
+nuevoEstado		estado
+nuevoTelefonoG		telefono_g
+
+
+nuevoTelefonoT		telefono_t
+nuevoNombreT		nombre_t
+nuevoCargoT		cargo_t
+nuevoFechaEmbarque	fecha_embarque
+
+
+nuevoTipoVeh		tipo_vehiculo
+nuevoPlaca		placa
+
+
+nuevoNombreEmpresaD	empresa_d
+nuevoAutorizacion	autorizacion
+nuevoDomicilioD		domicilio_d
+nuevoNombreD		nombre_d
+nuevoCargoD		cargo_d
+nuevoFechaRecepcion	fecha_recepcion
+
+
+
+19

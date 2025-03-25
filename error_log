@@ -1,0 +1,537 @@
+[19-Jan-2025 20:00:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sistema1.usuarios' doesn't exist in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php:19
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php(19): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/login.php(75): ControladorUsuarios::ctrIngresoUsuario()
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php on line 19
+[19-Jan-2025 20:00:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sistema1.usuarios' doesn't exist in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php:19
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php(19): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/login.php(75): ControladorUsuarios::ctrIngresoUsuario()
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php on line 19
+[19-Jan-2025 20:01:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sistema1.usuarios' doesn't exist in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php:19
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php(19): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/login.php(75): ControladorUsuarios::ctrIngresoUsuario()
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php on line 19
+[19-Jan-2025 20:01:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sistema1.usuarios' doesn't exist in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php:19
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php(19): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/login.php(75): ControladorUsuarios::ctrIngresoUsuario()
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php on line 19
+[19-Jan-2025 20:01:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sistema1.usuarios' doesn't exist in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php:19
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php(19): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/login.php(75): ControladorUsuarios::ctrIngresoUsuario()
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php on line 19
+[19-Jan-2025 20:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sistema1.usuarios' doesn't exist in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php:19
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php(19): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/login.php(75): ControladorUsuarios::ctrIngresoUsuario()
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/modelos/usuarios.modelo.php on line 19
+[19-Jan-2025 20:01:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(125): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php on line 9
+[19-Jan-2025 20:02:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(125): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php on line 9
+[19-Jan-2025 20:02:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(125): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php on line 9
+[19-Jan-2025 20:02:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(125): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php on line 9
+[19-Jan-2025 20:03:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/vistas/plantilla.php(125): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/index.php(27): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema.siriuz.com.mx/db.php on line 9
+[20-Jan-2025 02:15:50 UTC] PHP Warning:  Undefined variable $conexion in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php on line 117
+[20-Jan-2025 02:15:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php:117
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(117): mysqli_query()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(125): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/index.php(27): ControladorPlantilla::ctrPlantilla()
+#4 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php on line 117
+[20-Jan-2025 17:00:56 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 49
+[20-Jan-2025 17:00:56 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 54
+[20-Jan-2025 17:00:56 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 58
+[20-Jan-2025 17:00:56 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 58
+[20-Jan-2025 17:00:56 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php:58
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(125): include()
+#1 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/index.php(27): ControladorPlantilla::ctrPlantilla()
+#3 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 58
+[21-Jan-2025 18:34:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/f0imz1bowzrr/public_html/sistema/modelos/usuarios.modelo.php:15
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/login.php(74): ControladorUsuarios::ctrIngresoUsuario()
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(27): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/modelos/usuarios.modelo.php on line 15
+[21-Jan-2025 18:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/f0imz1bowzrr/public_html/sistema/modelos/usuarios.modelo.php:15
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/login.php(74): ControladorUsuarios::ctrIngresoUsuario()
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(149): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(27): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/modelos/usuarios.modelo.php on line 15
+[03-Feb-2025 18:26:29 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 49
+[03-Feb-2025 18:26:29 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 54
+[03-Feb-2025 18:26:29 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 58
+[03-Feb-2025 18:26:29 UTC] PHP Warning:  Trying to access array offset on false in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 58
+[03-Feb-2025 18:26:29 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php:58
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(125): include()
+#1 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/index.php(27): ControladorPlantilla::ctrPlantilla()
+#3 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/editar-venta.php on line 58
+[04-Feb-2025 00:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/f0imz1bowzrr/public_html/sistema/modelos/usuarios.modelo.php:15
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/controladores/usuarios.controlador.php(22): ModeloUsuarios::mdlMostrarUsuarios()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/login.php(74): ControladorUsuarios::ctrIngresoUsuario()
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(151): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/modelos/usuarios.modelo.php on line 15
+[04-Feb-2025 00:06:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:07:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:07:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:08:08 UTC] PHP Warning:  unlink(vistas/img/usuarios/ana/260.png): No such file or directory in /home/f0imz1bowzrr/public_html/sistema/controladores/usuarios.controlador.php on line 275
+[04-Feb-2025 00:09:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:09:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:10:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:10:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:10:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:10:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:10:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:11:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:12:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:12:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'obtener' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:13:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:14:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:15:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:15:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:15:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:16:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:16:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:16:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:17:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'SiriuzGroup'@'localhost' to database 'sistema' in /home/f0imz1bowzrr/public_html/sistema/db.php:9
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/db.php(9): mysqli_connect()
+#1 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(114): include('/home/f0imz1bow...')
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#3 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/db.php on line 9
+[04-Feb-2025 00:21:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'registro_a' in 'INSERT INTO' in /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php:44
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php(44): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema/controladores/manifiestos.controlador.php(39): ModeloManifiestos::mdlIngresarManifiesto()
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(625): ControladorManifiestos::ctrCrearManifiesto()
+#3 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php on line 44
+[04-Feb-2025 00:22:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'registro_a' in 'INSERT INTO' in /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php:44
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php(44): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema/controladores/manifiestos.controlador.php(39): ModeloManifiestos::mdlIngresarManifiesto()
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(625): ControladorManifiestos::ctrCrearManifiesto()
+#3 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php on line 44
+[04-Feb-2025 00:25:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'registro_a' in 'INSERT INTO' in /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php:44
+Stack trace:
+#0 /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php(44): PDOStatement->execute()
+#1 /home/f0imz1bowzrr/public_html/sistema/controladores/manifiestos.controlador.php(39): ModeloManifiestos::mdlIngresarManifiesto()
+#2 /home/f0imz1bowzrr/public_html/sistema/vistas/modulos/crear-manifiesto.php(625): ControladorManifiestos::ctrCrearManifiesto()
+#3 /home/f0imz1bowzrr/public_html/sistema/vistas/plantilla.php(127): include('/home/f0imz1bow...')
+#4 /home/f0imz1bowzrr/public_html/sistema/controladores/plantilla.controlador.php(7): include('/home/f0imz1bow...')
+#5 /home/f0imz1bowzrr/public_html/sistema/index.php(31): ControladorPlantilla::ctrPlantilla()
+#6 {main}
+  thrown in /home/f0imz1bowzrr/public_html/sistema/modelos/manifiestos.modelo.php on line 44
+[04-Feb-2025 17:40:52 UTC] PHP Warning:  rmdir(vistas/img/usuarios/juan): Directory not empty in /home/f0imz1bowzrr/public_html/sistema/controladores/usuarios.controlador.php on line 435
